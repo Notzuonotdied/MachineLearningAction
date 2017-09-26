@@ -2,105 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4f6e59b-3c13-44c0-bc0f-9461d6cfb05c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch02/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createDist.py" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createDist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createFirstPlot.py" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createFirstPlot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/README.txt" afterPath="$PROJECT_DIR$/Ch02/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/datingTestSet.txt" afterPath="$PROJECT_DIR$/Ch02/datingTestSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/datingTestSet2.txt" afterPath="$PROJECT_DIR$/Ch02/datingTestSet2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch03/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch02/kNN.py" afterPath="$PROJECT_DIR$/Ch02/kNN.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch03/classifierStorage.txt" afterPath="$PROJECT_DIR$/Ch03/classifierStorage.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch03/lenses.txt" afterPath="$PROJECT_DIR$/Ch03/lenses.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch03/treePlotter.py" afterPath="$PROJECT_DIR$/Ch03/treePlotter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch03/trees.py" afterPath="$PROJECT_DIR$/Ch03/trees.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch04/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch04/EXTRAS/create2Normal.py" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/create2Normal.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch04/bayes.py" afterPath="$PROJECT_DIR$/Ch04/bayes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plotSDerror.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plotSDerror.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/horseColicTest.txt" afterPath="$PROJECT_DIR$/Ch05/horseColicTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/horseColicTraining.txt" afterPath="$PROJECT_DIR$/Ch05/horseColicTraining.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/logRegres.py" afterPath="$PROJECT_DIR$/Ch05/logRegres.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch05/testSet.txt" afterPath="$PROJECT_DIR$/Ch05/testSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/EXTRAS/notLinSeperable.py" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/notLinSeperable.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/EXTRAS/plotRBF.py" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/plotRBF.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/EXTRAS/plotSupportVectors.py" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/plotSupportVectors.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/svmMLiA.py" afterPath="$PROJECT_DIR$/Ch06/svmMLiA.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/testSet.txt" afterPath="$PROJECT_DIR$/Ch06/testSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/testSetRBF.txt" afterPath="$PROJECT_DIR$/Ch06/testSetRBF.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch06/testSetRBF2.txt" afterPath="$PROJECT_DIR$/Ch06/testSetRBF2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch07/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch07/EXTRAS/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch07/EXTRAS/simpleDataPlot.py" afterPath="$PROJECT_DIR$/Ch07/EXTRAS/simpleDataPlot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch07/adaboost.py" afterPath="$PROJECT_DIR$/Ch07/adaboost.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch07/horseColicTest2.txt" afterPath="$PROJECT_DIR$/Ch07/horseColicTest2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch07/horseColicTraining2.txt" afterPath="$PROJECT_DIR$/Ch07/horseColicTraining2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/abalone.txt" afterPath="$PROJECT_DIR$/Ch08/abalone.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/ex0.txt" afterPath="$PROJECT_DIR$/Ch08/ex0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/ex1.txt" afterPath="$PROJECT_DIR$/Ch08/ex1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/regression.py" afterPath="$PROJECT_DIR$/Ch08/regression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10030.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10030.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10179.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10179.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10181.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10181.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10189.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10189.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10196.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10196.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch08/setHtml/lego8288.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego8288.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_test.txt" afterPath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_train.txt" afterPath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_train.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/ex0.txt" afterPath="$PROJECT_DIR$/Ch09/ex0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/ex00.txt" afterPath="$PROJECT_DIR$/Ch09/ex00.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/ex2.txt" afterPath="$PROJECT_DIR$/Ch09/ex2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/ex2test.txt" afterPath="$PROJECT_DIR$/Ch09/ex2test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/exp.txt" afterPath="$PROJECT_DIR$/Ch09/exp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/exp2.txt" afterPath="$PROJECT_DIR$/Ch09/exp2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/expTest.txt" afterPath="$PROJECT_DIR$/Ch09/expTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/regTrees.py" afterPath="$PROJECT_DIR$/Ch09/regTrees.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/sine.txt" afterPath="$PROJECT_DIR$/Ch09/sine.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch09/treeExplore.py" afterPath="$PROJECT_DIR$/Ch09/treeExplore.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch10/kMeans.py" afterPath="$PROJECT_DIR$/Ch10/kMeans.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch10/places.txt" afterPath="$PROJECT_DIR$/Ch10/places.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch10/testSet.txt" afterPath="$PROJECT_DIR$/Ch10/testSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch10/testSet2.txt" afterPath="$PROJECT_DIR$/Ch10/testSet2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch11/apriori.py" afterPath="$PROJECT_DIR$/Ch11/apriori.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch11/bills20DataSet.txt" afterPath="$PROJECT_DIR$/Ch11/bills20DataSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch11/lawAssnRules.txt" afterPath="$PROJECT_DIR$/Ch11/lawAssnRules.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch11/meaning20.txt" afterPath="$PROJECT_DIR$/Ch11/meaning20.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch11/recent100bills.txt" afterPath="$PROJECT_DIR$/Ch11/recent100bills.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch11/recent20bills.txt" afterPath="$PROJECT_DIR$/Ch11/recent20bills.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch12/fpGrowth.py" afterPath="$PROJECT_DIR$/Ch12/fpGrowth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/extras/createFig1.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/extras/createFig2.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/extras/createFig3.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/extras/createFig4.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/pca.py" afterPath="$PROJECT_DIR$/Ch13/pca.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/secom.data" afterPath="$PROJECT_DIR$/Ch13/secom.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/testSet.txt" afterPath="$PROJECT_DIR$/Ch13/testSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch13/testSet3.txt" afterPath="$PROJECT_DIR$/Ch13/testSet3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch14/0_5.txt" afterPath="$PROJECT_DIR$/Ch14/0_5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch14/svdRec.py" afterPath="$PROJECT_DIR$/Ch14/svdRec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/kickStart.txt" afterPath="$PROJECT_DIR$/Ch15/kickStart.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/mrMean.py" afterPath="$PROJECT_DIR$/Ch15/mrMean.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/mrMeanMapper.py" afterPath="$PROJECT_DIR$/Ch15/mrMeanMapper.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/mrMeanReducer.py" afterPath="$PROJECT_DIR$/Ch15/mrMeanReducer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/mrSVM.py" afterPath="$PROJECT_DIR$/Ch15/mrSVM.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/mrSVMkickStart.py" afterPath="$PROJECT_DIR$/Ch15/mrSVMkickStart.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/myout.txt" afterPath="$PROJECT_DIR$/Ch15/myout.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/pegasos.py" afterPath="$PROJECT_DIR$/Ch15/pegasos.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/proximalSVM.py" afterPath="$PROJECT_DIR$/Ch15/proximalSVM.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/svmDat2.txt" afterPath="$PROJECT_DIR$/Ch15/svmDat2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/svmDat26" afterPath="$PROJECT_DIR$/Ch15/svmDat26" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/svmDat27" afterPath="$PROJECT_DIR$/Ch15/svmDat27" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/svmData.txt" afterPath="$PROJECT_DIR$/Ch15/svmData.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/testSet.txt" afterPath="$PROJECT_DIR$/Ch15/testSet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ch15/testSet200.txt" afterPath="$PROJECT_DIR$/Ch15/testSet200.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.rst" afterPath="$PROJECT_DIR$/README.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,38 +16,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch02/kNN.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="treePlotter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch03/treePlotter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="146">
-              <caret line="140" column="8" lean-forward="false" selection-start-line="140" selection-start-column="10" selection-end-line="141" selection-end-column="53" />
+              <caret line="142" column="10" lean-forward="false" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch03/trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="188" column="18" lean-forward="false" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
               <folding>
-                <element signature="e#387#402#0" expanded="true" />
+                <element signature="e#121#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ch02/main.py">
+        <entry file="file://$PROJECT_DIR$/Ch03/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="414">
+              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sklean.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch02/sklean.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-              <folding>
-                <element signature="e#45#74#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,12 +62,17 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>operator</find>
       <find>numpy</find>
       <find>dating</find>
       <find>dating_class_test</find>
       <find>classify_person</find>
       <find>print</find>
+      <find>operator</find>
+      <find>auto</find>
+      <find>surfacing</find>
+      <find>create_plot</find>
+      <find>totalW</find>
+      <find>classif</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,16 +82,38 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Ch02/sklean.py" />
-        <option value="$PROJECT_DIR$/Ch02/kNN.py" />
         <option value="$PROJECT_DIR$/Ch02/main.py" />
+        <option value="$PROJECT_DIR$/Ch02/kNN.py" />
+        <option value="$PROJECT_DIR$/Ch03/treePlotter.py" />
+        <option value="$PROJECT_DIR$/Ch03/trees.py" />
+        <option value="$PROJECT_DIR$/Ch03/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="137" />
-    <option name="width" value="1309" />
-    <option name="height" value="747" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="268" />
+    <option name="y" value="97" />
+    <option name="width" value="1015" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -200,6 +131,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,25 +142,12 @@
             <path>
               <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
               <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="digits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="EXTRAS" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,6 +180,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machinelearninginaction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch02/kNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machinelearninginaction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch03/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,14 +218,35 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <configuration name="treePlotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machinelearninginaction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch03/treePlotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.kNN" />
       <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.treePlotter" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.kNN" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.treePlotter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.kNN" />
       </list>
     </recent_temporary>
   </component>
@@ -310,25 +267,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="137" width="1309" height="747" extended-state="0" />
+    <frame x="65" y="123" width="1301" height="774" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21084797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24432263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22741432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -340,7 +298,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch02/README.txt">
+    <entry file="file://$PROJECT_DIR$/Ch03/treePlotter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -348,13 +306,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#121#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch03/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch02/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ch02/sklean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
+        <state relative-caret-position="756">
           <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="e#45#74#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch02/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -362,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -370,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,26 +372,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch02/kNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="140" column="8" lean-forward="false" selection-start-line="140" selection-start-column="10" selection-end-line="141" selection-end-column="53" />
-          <folding>
-            <element signature="e#387#402#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch02/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="27">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch02/sklean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch03/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="142" column="10" lean-forward="false" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="188" column="18" lean-forward="false" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#121#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="91" column="8" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch03/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>

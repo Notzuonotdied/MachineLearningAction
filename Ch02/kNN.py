@@ -12,9 +12,8 @@ Output:     the most popular class label
 
 @author: pbharrin
 """
-import operator
 from os import listdir
-
+import operator
 from numpy import *
 
 
@@ -59,20 +58,13 @@ def classify0(in_x, data_set, labels, k):
     sorted_class_count = sorted(class_count.items(),
                                 key=operator.itemgetter(1),
                                 reverse=True)
-
+    # 返回出现次数最多的分类
     return sorted_class_count[0][0]
-
-
-def create_data_set():
-    """
-    函数作用：返回一个训练数据，一共四个样本
-    :return: 数据，labels
-    """
-    return array([[1.0, 1.1], [1.0, 1.0], [0, 0], [0, 0.1]]), ['A', 'A', 'B', 'B']
 
 
 def file_matrix(filename):
     """
+    使用Python解析文本文件。
     该函数的输入为文件名字符串，输出为训练样本矩阵和类标签向量。
     :param filename:文件名
     :return:训练样本矩阵和类标签向量。
@@ -99,6 +91,7 @@ def file_matrix(filename):
 
 def auto_norm(data_set):
     """
+    对数据进行归一化处理，让数据都在[0,1]范围内，方便进行矩阵运算。
     归一化特征值（将数据处理为0~1范围内）
     :param data_set:数据集合
     :return:
@@ -119,6 +112,10 @@ def auto_norm(data_set):
 
 
 def dating_class_test():
+    """
+    使用部分数据作为测试样本。
+    :return: 无
+    """
     # 使用10%的数据进行测试
     ho_ratio = 0.90
     # 从文件中读取数据集合
@@ -220,3 +217,11 @@ def handwriting_class_test():
         if classifier_result != class_num: error_count += 1.0
     print("\n the total number of errors is: %d" % error_count)
     print("\n the total error rate is: %f" % (error_count / float(mTest)))
+
+
+def create_data_set():
+    """
+    函数作用：返回一个训练数据，一共四个样本
+    :return: 数据，labels
+    """
+    return array([[1.0, 1.1], [1.0, 1.0], [0, 0], [0, 0.1]]), ['A', 'A', 'B', 'B']
