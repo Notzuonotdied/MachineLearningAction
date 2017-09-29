@@ -205,9 +205,8 @@ def spam_test():
         # 如果邮件分类错误，则错误数加1，最后给出总的错误百分比。
         if classify_NB(array(wordVector), p0V, p1V, pSpam) != classList[docIndex]:
             errorCount += 1
-            print("classification error", docList[docIndex])
-    print('the error rate is: ', float(errorCount) / len(testSet))
-    # return vocabList,fullText
+            print("分类错误：", docList[docIndex])
+    print('邮件分类的错误率为: ', float(errorCount) / len(testSet))
 
 
 def calc_most_freq(vocab_list, full_text):
@@ -217,12 +216,14 @@ def calc_most_freq(vocab_list, full_text):
     然后根据出现次数从高到低对词典进行排序，最后返回排序最高的30个单词。
     :param vocab_list:
     :param full_text:
-    :return:
+    :return:返回前30个高频单词
     """
     import operator
     freqDict = {}
     for token in vocab_list:
+        # 计算每个单词出现的次数
         freqDict[token] = full_text.count(token)
+        # 逆序排序
     sortedFreq = sorted(freqDict.items(), key=operator.itemgetter(1), reverse=True)
     return sortedFreq[:30]
 
@@ -250,10 +251,15 @@ def local_words(feed1, feed0):
         classList.append(0)
     # 去掉出现次数最高的那些词
     vocabList = create_vocab_list(docList)
-    top30Words = calc_most_freq(vocabList, fullText)
-    for pairW in top30Words:
-        if pairW[0] in vocabList:
-            vocabList.remove(pairW[0])
+    # 这里采用了停用词，可以查看地址：http://www.ranks.nl/stopwords
+    stopWordList = stop_words()
+    for stopWord in stopWordList:
+        if stopWord in vocabList:
+            vocabList.remove(stopWord)
+    # top30Words = calc_most_freq(vocabList, fullText)
+    # for pairW in top30Words:
+    #     if pairW[0] in vocabList:
+    #         vocabList.remove(pairW[0])
     trainingSet = list(range(2 * minLen))
     testSet = []
     for i in range(5):
@@ -293,10 +299,18 @@ def get_top_words(ny, sf):
         if p1V[i] > -6.0:
             topNY.append((vocabList[i], p1V[i]))
     sortedSF = sorted(topSF, key=lambda pair: pair[1], reverse=True)
-    print("SF**SF**SF**SF**SF**SF**SF**SF**SF**SF**%f" % len(sortedSF))
-    for item in sortedSF:
-        print(item[0])
+    print("SF==============>%f" % len(sortedSF))
+    # for item in sortedSF:
+    #     print(item[0])
     sortedNY = sorted(topNY, key=lambda pair: pair[1], reverse=True)
-    print("NY**NY**NY**NY**NY**NY**NY**NY**NY**NY**%f" % len(sortedNY))
-    for item in sortedNY:
-        print(item[0])
+    print("NY==============>%f" % len(sortedNY))
+    # for item in sortedNY:
+    #     print(item[0])
+
+
+def stop_words():
+    import re
+    # 详情请见：http://www.ranks.nl/stopwords
+    wordList = open('stoptxt.txt').read()
+    listOfTokens = re.split(r'\W*', wordList)
+    return [tok.lower() for tok in listOfTokens]

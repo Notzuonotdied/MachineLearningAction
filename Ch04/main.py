@@ -17,12 +17,17 @@ print("贝叶斯分类:\n", p0V,
       "\n", p1V,
       "\n文档属于侮辱类的概率pAb为：", pAb)
 
-# 使用朴素贝叶斯进行交叉验证
+# 垃圾邮件测试函数
+bayes.spam_test()
 bayes.spam_test()
 
 # 使用朴素贝叶斯来发现地域相关的用词
-ny = feedparser.parse('http://www.nasa.gov/rss/dyn/image_of_the_day.rss')
-sf = feedparser.parse('https://sports.yahoo.com/nba/teams/hou/rss.xml')
+# 下面的RSS源需要科学上网
+ny = feedparser.parse('http://newyork.craigslist.org/stp/index.rss')
+sf = feedparser.parse('http://sfbay.craigslist.org/stp/index.rss')
+# 如果用不了就换这下面的RSS源
+# ny = feedparser.parse('http://www.nasa.gov/rss/dyn/image_of_the_day.rss')
+# sf = feedparser.parse('https://sports.yahoo.com/nba/teams/hou/rss.xml')
 print("ny`s len = ", len(ny['entries']), ", sf`s len = ", len(sf['entries']))
 vocabList, pSF, pNY = bayes.local_words(ny, sf)
 # print(vocabList, pSF, pNY)
