@@ -1,8 +1,8 @@
-'''
+"""
 Created on Oct 12, 2010
 Decision Tree Source Code for Machine Learning in Action Ch. 3
 @author: Peter Harrington
-'''
+"""
 import operator
 from math import log
 

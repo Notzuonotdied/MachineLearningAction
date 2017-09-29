@@ -98,11 +98,10 @@ def plot_tree(my_tree, parent_pt, node_txt):  # if the first key tells you what 
     :return:无
     """
     # 计算叶子的数量
-    # this determines the x width of this tree
     numLeafs = get_num_leafs(my_tree)
     depth = get_tree_depth(my_tree)
     firstSides = list(my_tree.keys())
-    firstStr = firstSides[0]  # the text label for this node should be this
+    firstStr = firstSides[0]
     cntrPt = (plot_tree.xOff + (1.0 + float(numLeafs)) / 2.0 / plot_tree.totalW, plot_tree.yOff)
     # 标记子节点属性值
     plot_mid_text(cntrPt, parent_pt, node_txt)
@@ -121,7 +120,6 @@ def plot_tree(my_tree, parent_pt, node_txt):  # if the first key tells you what 
     plot_tree.yOff = plot_tree.yOff + 1.0 / plot_tree.totalD
 
 
-# if you do get a dictonary you know it's a tree, and the first element will be another dict
 def create_plot(in_tree):
     fig = plt.figure(1, facecolor='white')
     fig.clf()
@@ -156,5 +154,3 @@ def retrieve_tree(i):
                    {'no surfacing': {0: 'no', 1: {'flippers': {0: {'head': {0: 'no', 1: 'yes'}}, 1: 'no'}}}}
                    ]
     return listOfTrees[i]
-
-    # createPlot(thisTree)
